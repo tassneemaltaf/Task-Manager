@@ -1,0 +1,4 @@
+Assign initial tasks, Admin, Use taskManager.py to add the users and pass, 10 Jan 2020, 15 Mar 2020, Yes
+Register users, Username2, Use taskManager.py to assign task to each member, 25 Jan 2020, 20 April 2020, No
+Print documents, Username2, Use printer, 1 Feb 2020, 10 Apr 2020, No
+Open new bank account., Username3, Go to bank , 9 Feb 2020, 3 May 2020, Yes
